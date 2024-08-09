@@ -142,16 +142,6 @@ FAH2_STN_psa_temp_C = 25.0
 # p.18)
 FAH2_STN_out_pres_bar = GH2_STN_out_pres_bar
 
-# compressed hydrogen terminal required storage amount (days)
-GH2_TML_stor_amt_days = 0.25
-
-# time needed to fill compressed hydrogen terminal storage (days)
-# in HDSAM V3.1, equal to number of days of hydrogen storage at terminal
-GH2_TML_stor_fill_time_days = GH2_TML_stor_amt_days
-
-# liquid hydrogen terminal required storage amount (days)
-LH2_TML_stor_amt_days = 1.0
-
 # cascade storage size (% of station capacity) at compressed hydrogen 
 # refueling station 
 # TODO: consider optimizing cascade size as a fraction of station capacity 
@@ -3030,6 +3020,8 @@ def calcs(
             'hydr. separator energy (unit TBD)' : 0.0,
             'CO2 electrolyzer purchase cost ($/m^2)' : 5250.0,
             'terminal formic acid storage amount (days)' : 0.25,
+            'terminal compressed hydrogen storage amount (days)': 0.25,
+            'terminal liquid hydrogen storage amount (days)': 1.0,
             'dehydr. reaction temperature (K)' : 300.0,
             'dehydr. reaction pressure (bar)' : 1.013,
             'dehydr. reaction yield' : 0.9999,
@@ -3198,10 +3190,19 @@ def calcs(
         ]
     
     # formic acid storage amount at terminal (days)
-    # for now, assume same as compressed hydrogen terminal
     FAH2_TML_stor_amt_days = dict_input_params[
         'terminal formic acid storage amount (days)'
         ]    
+
+    # compressed hydrogen storage amount at terminal (days)
+    GH2_TML_stor_amt_days = dict_input_params[
+        'terminal compressed hydrogen storage amount (days)'
+        ]
+
+    # liquid hydrogen storage amount at terminal (days)
+    LH2_TML_stor_amt_days = dict_input_params[
+        'terminal liquid hydrogen storage amount (days)'
+        ]
 
     # dehydrogenation reaction temperature (K)
     # = inlet temperature to precooling for separator 
@@ -3383,6 +3384,11 @@ def calcs(
     # LOHC / formic acid terminal
     FAH2_TML_in_pres_bar = \
         FAH2_TML_in_pres_atm * Pa_per_atm / Pa_per_bar
+        
+    # ------------------------------------------------------------------------
+    # time needed to fill compressed hydrogen terminal storage (days)
+    # in HDSAM V3.1, equal to number of days of hydrogen storage at terminal
+    GH2_TML_stor_fill_time_days = GH2_TML_stor_amt_days
         
     # ------------------------------------------------------------------------
     # calculate roundtrip delivery distance (mile)
@@ -4002,7 +4008,8 @@ def calcs(
     # terminal
     GH2_TML_stor_tot_capacity_kg, _ = \
         GH2_terminal_storage_size(
-            H2_flow_kg_per_day = TML_H2_flow_kg_per_day
+            H2_flow_kg_per_day = TML_H2_flow_kg_per_day,
+            stor_amt_days = GH2_TML_stor_amt_days
             )
     
     # calculate storage installed cost ($) and annual O&M cost ($/yr), 
@@ -6108,7 +6115,8 @@ def calcs(
     LH2_TML_stor_tank_capacity_cu_m, \
     LH2_TML_num_tanks = \
         LH2_terminal_storage_size(
-            H2_flow_kg_per_day = TML_H2_flow_kg_per_day
+            H2_flow_kg_per_day = TML_H2_flow_kg_per_day,
+            stor_amt_days = LH2_TML_stor_amt_days
             )
     
     # calculate storage installed cost ($) and annual O&M cost ($/yr), 
