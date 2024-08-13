@@ -104,6 +104,11 @@ LH2_TML_in_pres_atm = 2.0
 # = hydrogen pressure to truck
 LH2_TML_out_pres_atm = LH2_TML_in_pres_atm + 1.0
 
+# liquid hydrogen terminal storage boil-off 
+# HDSAM V3.1: 0.03% of storage capacity per day at terminal
+# use as fraction per day of initial amount of hydrogen stored
+LH2_TML_stor_boil_off_frac_per_day = 0.0003
+
 # compressed hydrogen refueling station compressor outlet pressure (bar)
 # HDSAM V3.1: main compressor discharge pressure at refueling station for 
 # compressed gaseous hydrogen
@@ -3482,10 +3487,16 @@ def calcs(
         TML_H2_flow_kg_per_sec / molar_mass_H2_kg_per_kmol * mol_per_kmol
 
     # ------------------------------------------------------------------------
-    # liquefier size
+    # liquid hydrogen terminal mass balance liquefier size
 
+    # calculate hydrogen mass flowrate (kg H2/day) into liquid terminal
+    # "gross" flowrate before boil-off losses
+    LH2_TML_H2_in_flow_kg_per_day = TML_H2_flow_kg_per_day / (
+        1 - LH2_TML_stor_boil_off_frac_per_day
+        )**max(1.0, LH2_TML_stor_amt_days)
+    
     # calculate liquefier size (tonne H2/day)
-    liquef_size_tonne_per_day = TML_H2_flow_kg_per_day / kg_per_tonne
+    liquef_size_tonne_per_day = LH2_TML_H2_in_flow_kg_per_day / kg_per_tonne
 
     # ------------------------------------------------------------------------
     # LOHC / formic acid terminal mass balance
@@ -5556,7 +5567,7 @@ def calcs(
     
     # calculate hydrogen purchase cost ($/yr)   
     LH2_TML_H2_purc_cost_usd_per_yr = \
-        purc_cost_H2_usd_per_kg * TML_H2_flow_kg_per_day * \
+        purc_cost_H2_usd_per_kg * LH2_TML_H2_in_flow_kg_per_day * \
         day_per_yr
         
     # calculate hydrogen purchase cost ($/kg H2)   
@@ -5592,7 +5603,7 @@ def calcs(
 
     # calculate emissions of purchased hydrogen (kg CO2-eq/kg H2)
     LH2_TML_H2_purc_ghg_kg_CO2_per_kg = \
-        H2_prod_ghg_kg_CO2_per_kg * TML_H2_flow_kg_per_day * \
+        H2_prod_ghg_kg_CO2_per_kg * LH2_TML_H2_in_flow_kg_per_day * \
         day_per_yr / tot_H2_deliv_kg_per_yr
     
     # convert emissions of purchased hydrogen to g CO2-eq/MJ H2 (LHV) 
@@ -5847,7 +5858,7 @@ def calcs(
     LH2_liquef_labor_cost_usd_per_yr, \
     LH2_liquef_labor_cost_dollar_year = \
         non_station_labor_cost(
-            H2_flow_kg_per_day = TML_H2_flow_kg_per_day, 
+            H2_flow_kg_per_day = LH2_TML_H2_in_flow_kg_per_day, 
             output_dollar_year = output_dollar_year
             ) 
     
@@ -6115,7 +6126,7 @@ def calcs(
     LH2_TML_stor_tank_capacity_cu_m, \
     LH2_TML_num_tanks = \
         LH2_terminal_storage_size(
-            H2_flow_kg_per_day = TML_H2_flow_kg_per_day,
+            H2_flow_kg_per_day = LH2_TML_H2_in_flow_kg_per_day,
             stor_amt_days = LH2_TML_stor_amt_days
             )
     
