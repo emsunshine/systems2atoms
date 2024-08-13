@@ -127,24 +127,24 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 0,compressed hydrogen,reconditioning,refueling station,cooling,refrigerator,capital cost,levelized capital cost,$/kg H2,0.0878640558183182
 0,compressed hydrogen,reconditioning,refueling station,storage,cascade storage,capital cost,levelized capital cost,$/yr,1202355.2353629947
 0,compressed hydrogen,reconditioning,refueling station,storage,cascade storage,capital cost,levelized capital cost,$/kg H2,0.32941239325013555
-0,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/yr,1131500.0
-0,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/kg H2,0.31
+0,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/yr,1131839.5518655595
+0,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/kg H2,0.31009302790837245
 0,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,kg CO2/kg H2,0.0
 0,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,g CO2/MJ H2 (LHV),0.0
-0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.629700437080334
-0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.3189973455609304
-0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,kg CO2/kg H2,2.423571699654316
-0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,g CO2/MJ H2 (LHV),20.20316521885892
-0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6630647.687144157
-0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.816615804697029
-0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,500472.6056824669
-0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.13711578237875804
-0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1177111.5685651621
-0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.3224963201548389
-0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,575848.4932416342
-0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15776671047716007
-0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7304513.069458776
-0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.001236457385966
+0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.629381503008753
+0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.31898777434837877
+0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,kg CO2/kg H2,2.4234989826859956
+0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,g CO2/MJ H2 (LHV),20.202559042063985
+0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6630448.740854315
+0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.816561298864196
+0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,500592.75154753856
+0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.13714869905412017
+0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1177394.151639811
+0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.32257374017529067
+0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,575891.6899783192
+0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15777854519953952
+0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7306266.626060463
+0,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.0017168838521817
 0,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,kWh/kg H2,0.0005296792911471811
 0,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,MJ/MJ H2 (LHV),1.5895677293513272e-05
 0,liquid hydrogen,preconditioning,terminal,pumping,loading pump,emissions,energy emissions,kg CO2/kg H2,0.00012076687838155731
@@ -153,20 +153,20 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 0,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy cost,electricity cost,$/kg H2,9.052219085705325e-05
 0,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/yr,1770.5213831379567
 0,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.00048507435154464566
-0,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,29022.063508781433
-0,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.007951250276378476
+0,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,29024.098830517727
+0,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.00795180789877198
 0,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/yr,5205.332866425593
-0,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/kg H2,0.0014261185935412586
-0,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,85324.86671581742
-0,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.023376675812552716
-0,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,33110.311274960164
-0,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.009071318157523333
-0,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,542738.181966674
-0,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.14869539231963672
+0,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/kg H2,0.0014261185935412583
+0,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,85330.85056172211
+0,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.02337831522238962
+0,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,33108.12290128432
+0,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.009070718603091592
+0,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,542740.37034035
+0,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.14869599187406848
 0,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/yr,41529.622838895484
 0,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/kg H2,0.011377978859971365
-0,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,549258.0023399345
-0,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,0.15048164447669438
+0,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,549296.5218873353
+0,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,0.15049219777735215
 0,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,gallon/kg H2,0.009233610341643583
 0,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,MJ/MJ H2 (LHV),0.010429761597971871
 0,liquid hydrogen,transport,truck,trucking,truck,emissions,energy emissions,kg CO2/kg H2,0.09399815327793168
@@ -559,20 +559,20 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 1,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/kg H2,0.0
 1,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,kg CO2/kg H2,0.0
 1,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,g CO2/MJ H2 (LHV),0.0
-1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.629700437080334
-1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.3189973455609304
+1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.629381503008753
+1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.31898777434837877
 1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,kg CO2/kg H2,0.0
 1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,g CO2/MJ H2 (LHV),0.0
-1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6630647.687144157
-1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.816615804697029
-1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,500472.6056824669
-1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.13711578237875804
-1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1177111.5685651621
-1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.3224963201548389
-1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,575848.4932416342
-1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15776671047716007
-1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7304513.069458776
-1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.001236457385966
+1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6630448.740854315
+1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.816561298864196
+1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,500592.75154753856
+1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.13714869905412017
+1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1177394.151639811
+1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.32257374017529067
+1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,575891.6899783192
+1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15777854519953952
+1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7306266.626060463
+1,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.0017168838521817
 1,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,kWh/kg H2,0.0005296792911471811
 1,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,MJ/MJ H2 (LHV),1.5895677293513272e-05
 1,liquid hydrogen,preconditioning,terminal,pumping,loading pump,emissions,energy emissions,kg CO2/kg H2,0.0
@@ -581,20 +581,20 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 1,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy cost,electricity cost,$/kg H2,9.052219085705325e-05
 1,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/yr,1770.5213831379567
 1,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.00048507435154464566
-1,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,29022.063508781433
-1,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.007951250276378476
+1,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,29024.098830517727
+1,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.00795180789877198
 1,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/yr,5205.332866425593
-1,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/kg H2,0.0014261185935412586
-1,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,85324.86671581742
-1,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.023376675812552716
-1,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,33110.311274960164
-1,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.009071318157523333
-1,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,542738.181966674
-1,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.14869539231963672
+1,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/kg H2,0.0014261185935412583
+1,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,85330.85056172211
+1,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.02337831522238962
+1,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,33108.12290128432
+1,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.009070718603091592
+1,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,542740.37034035
+1,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.14869599187406848
 1,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/yr,41529.622838895484
 1,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/kg H2,0.011377978859971365
-1,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,549258.0023399345
-1,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,0.15048164447669438
+1,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,549296.5218873353
+1,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,0.15049219777735215
 1,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,gallon/kg H2,0.009233610341643583
 1,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,MJ/MJ H2 (LHV),0.010429761597971871
 1,liquid hydrogen,transport,truck,trucking,truck,emissions,energy emissions,kg CO2/kg H2,0.09399815327793168
@@ -983,24 +983,24 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 2,compressed hydrogen,reconditioning,refueling station,cooling,refrigerator,capital cost,levelized capital cost,$/kg H2,0.0878640558183182
 2,compressed hydrogen,reconditioning,refueling station,storage,cascade storage,capital cost,levelized capital cost,$/yr,1202355.2353629947
 2,compressed hydrogen,reconditioning,refueling station,storage,cascade storage,capital cost,levelized capital cost,$/kg H2,0.32941239325013555
-2,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/yr,1131500.0
-2,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/kg H2,0.31
+2,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/yr,1131839.5518655595
+2,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/kg H2,0.31009302790837245
 2,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,kg CO2/kg H2,0.0
 2,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,g CO2/MJ H2 (LHV),0.0
-2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.629700437080334
-2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.3189973455609304
+2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.629381503008753
+2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.31898777434837877
 2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,kg CO2/kg H2,0.0
 2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,g CO2/MJ H2 (LHV),0.0
-2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6630647.687144157
-2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.816615804697029
-2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,500472.6056824669
-2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.13711578237875804
-2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1177111.5685651621
-2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.3224963201548389
-2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,575848.4932416342
-2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15776671047716007
-2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7304513.069458776
-2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.001236457385966
+2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6630448.740854315
+2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.816561298864196
+2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,500592.75154753856
+2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.13714869905412017
+2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1177394.151639811
+2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.32257374017529067
+2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,575891.6899783192
+2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15777854519953952
+2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7306266.626060463
+2,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.0017168838521817
 2,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,kWh/kg H2,0.0005296792911471811
 2,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,MJ/MJ H2 (LHV),1.5895677293513272e-05
 2,liquid hydrogen,preconditioning,terminal,pumping,loading pump,emissions,energy emissions,kg CO2/kg H2,0.0
@@ -1009,20 +1009,20 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 2,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy cost,electricity cost,$/kg H2,9.052219085705325e-05
 2,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/yr,1770.5213831379567
 2,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.00048507435154464566
-2,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,29022.063508781433
-2,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.007951250276378476
+2,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,29024.098830517727
+2,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.00795180789877198
 2,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/yr,5205.332866425593
-2,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/kg H2,0.0014261185935412586
-2,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,85324.86671581742
-2,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.023376675812552716
-2,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,33110.311274960164
-2,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.009071318157523333
-2,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,542738.181966674
-2,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.14869539231963672
+2,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/kg H2,0.0014261185935412583
+2,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,85330.85056172211
+2,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.02337831522238962
+2,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,33108.12290128432
+2,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.009070718603091592
+2,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,542740.37034035
+2,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.14869599187406848
 2,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/yr,41529.622838895484
 2,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/kg H2,0.011377978859971365
-2,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,549258.0023399345
-2,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,0.15048164447669438
+2,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,549296.5218873353
+2,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,0.15049219777735215
 2,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,gallon/kg H2,0.009233610341643583
 2,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,MJ/MJ H2 (LHV),0.010429761597971871
 2,liquid hydrogen,transport,truck,trucking,truck,emissions,energy emissions,kg CO2/kg H2,0.09399815327793168
@@ -1411,24 +1411,24 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 3,compressed hydrogen,reconditioning,refueling station,cooling,refrigerator,capital cost,levelized capital cost,$/kg H2,0.0878640558183182
 3,compressed hydrogen,reconditioning,refueling station,storage,cascade storage,capital cost,levelized capital cost,$/yr,1202355.2353629947
 3,compressed hydrogen,reconditioning,refueling station,storage,cascade storage,capital cost,levelized capital cost,$/kg H2,0.32941239325013555
-3,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/yr,1131500.0
-3,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/kg H2,0.31
+3,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/yr,1131839.5518655595
+3,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/kg H2,0.31009302790837245
 3,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,kg CO2/kg H2,0.0
 3,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,g CO2/MJ H2 (LHV),0.0
-3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.629700437080334
-3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.3189973455609304
+3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.629381503008753
+3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.31898777434837877
 3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,kg CO2/kg H2,0.0
 3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,g CO2/MJ H2 (LHV),0.0
-3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6630647.687144157
-3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.816615804697029
-3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,500472.6056824669
-3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.13711578237875804
-3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1177111.5685651621
-3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.3224963201548389
-3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,575848.4932416342
-3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15776671047716007
-3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7304513.069458776
-3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.001236457385966
+3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6630448.740854315
+3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.816561298864196
+3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,500592.75154753856
+3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.13714869905412017
+3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1177394.151639811
+3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.32257374017529067
+3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,575891.6899783192
+3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15777854519953952
+3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7306266.626060463
+3,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.0017168838521817
 3,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,kWh/kg H2,0.0005296792911471811
 3,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,MJ/MJ H2 (LHV),1.5895677293513272e-05
 3,liquid hydrogen,preconditioning,terminal,pumping,loading pump,emissions,energy emissions,kg CO2/kg H2,0.0
@@ -1437,20 +1437,20 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 3,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy cost,electricity cost,$/kg H2,9.052219085705325e-05
 3,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/yr,1770.5213831379567
 3,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.00048507435154464566
-3,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,23888.17416310332
-3,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.006544705250165293
-3,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/yr,5205.332866425593
-3,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/kg H2,0.0014261185935412583
-3,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,70231.23203952375
-3,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.01924143343548596
-3,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,39735.148222741205
-3,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.010886341978833206
-3,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,536113.345018893
-3,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.14688036849832686
-3,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/yr,41529.622838895484
-3,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/kg H2,0.011377978859971365
-3,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,452096.4133513287
-3,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,0.12386203105515854
+3,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,23888.69241630813
+3,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.006544847237344694
+3,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/yr,5205.332866425592
+3,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/kg H2,0.0014261185935412581
+3,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,70232.7557039459
+3,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.019241850877793395
+3,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,39734.34567017388
+3,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.010886122101417503
+3,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,536114.1475714603
+3,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.14688058837574258
+3,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/yr,41529.62283889548
+3,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/kg H2,0.011377978859971364
+3,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,452106.22156913154
+3,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,0.12386471823811823
 3,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,gallon/kg H2,0.009233610341643583
 3,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,MJ/MJ H2 (LHV),0.010429761597971871
 3,liquid hydrogen,transport,truck,trucking,truck,emissions,energy emissions,kg CO2/kg H2,0.09399815327793168
@@ -1839,24 +1839,24 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 4,compressed hydrogen,reconditioning,refueling station,cooling,refrigerator,capital cost,levelized capital cost,$/kg H2,0.0878640558183182
 4,compressed hydrogen,reconditioning,refueling station,storage,cascade storage,capital cost,levelized capital cost,$/yr,1202355.2353629947
 4,compressed hydrogen,reconditioning,refueling station,storage,cascade storage,capital cost,levelized capital cost,$/kg H2,0.32941239325013555
-4,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/yr,1131500.0
-4,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/kg H2,0.31
+4,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/yr,1131839.5518655595
+4,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/kg H2,0.31009302790837245
 4,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,kg CO2/kg H2,0.0
 4,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,g CO2/MJ H2 (LHV),0.0
-4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.629700437080334
-4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.3189973455609304
+4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.629381503008753
+4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.31898777434837877
 4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,kg CO2/kg H2,0.0
 4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,g CO2/MJ H2 (LHV),0.0
-4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6630647.687144157
-4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.816615804697029
-4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,500472.6056824669
-4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.13711578237875804
-4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1177111.5685651621
-4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.3224963201548389
-4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,575848.4932416342
-4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15776671047716007
-4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7304513.069458776
-4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.001236457385966
+4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6630448.740854315
+4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.816561298864196
+4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,500592.75154753856
+4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.13714869905412017
+4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1177394.151639811
+4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.32257374017529067
+4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,575891.6899783192
+4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15777854519953952
+4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7306266.626060463
+4,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.0017168838521817
 4,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,kWh/kg H2,0.0005296792911471811
 4,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,MJ/MJ H2 (LHV),1.5895677293513272e-05
 4,liquid hydrogen,preconditioning,terminal,pumping,loading pump,emissions,energy emissions,kg CO2/kg H2,0.0
@@ -1865,20 +1865,20 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 4,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy cost,electricity cost,$/kg H2,9.052219085705325e-05
 4,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/yr,1770.5213831379567
 4,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.00048507435154464566
-4,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,29022.063508781433
-4,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.007951250276378476
+4,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,29024.098830517727
+4,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.00795180789877198
 4,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/yr,5205.332866425593
-4,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/kg H2,0.0014261185935412586
-4,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,85324.86671581742
-4,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.023376675812552716
-4,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,33110.311274960164
-4,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.009071318157523333
-4,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,542738.181966674
-4,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.14869539231963672
+4,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/kg H2,0.0014261185935412583
+4,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,85330.85056172211
+4,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.02337831522238962
+4,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,33108.12290128432
+4,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.009070718603091592
+4,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,542740.37034035
+4,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.14869599187406848
 4,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/yr,41529.622838895484
 4,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/kg H2,0.011377978859971365
-4,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,549258.0023399345
-4,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,0.15048164447669438
+4,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,549296.5218873353
+4,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,0.15049219777735215
 4,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,gallon/kg H2,0.009233610341643583
 4,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,MJ/MJ H2 (LHV),0.010429761597971871
 4,liquid hydrogen,transport,truck,trucking,truck,emissions,energy emissions,kg CO2/kg H2,0.09399815327793168
@@ -2267,24 +2267,24 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 5,compressed hydrogen,reconditioning,refueling station,cooling,refrigerator,capital cost,levelized capital cost,$/kg H2,0.0878640558183182
 5,compressed hydrogen,reconditioning,refueling station,storage,cascade storage,capital cost,levelized capital cost,$/yr,1202355.2353629947
 5,compressed hydrogen,reconditioning,refueling station,storage,cascade storage,capital cost,levelized capital cost,$/kg H2,0.32941239325013555
-5,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/yr,1131500.0
-5,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/kg H2,0.31
+5,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/yr,1133198.7785949092
+5,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/kg H2,0.31046541879312584
 5,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,kg CO2/kg H2,0.0
 5,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,g CO2/MJ H2 (LHV),0.0
-5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.629700437080334
-5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.3189973455609304
+5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.628105862412701
+5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.31894949236983766
 5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,kg CO2/kg H2,0.0
 5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,g CO2/MJ H2 (LHV),0.0
-5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6630647.687144157
-5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.816615804697029
-5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,500472.6056824669
-5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.13711578237875804
-5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1177111.5685651621
-5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.3224963201548389
-5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,575848.4932416342
-5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15776671047716007
-5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7304513.069458776
-5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.001236457385966
+5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6629653.015385106
+5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.8163432918863305
+5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,501073.62350502796
+5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.13728044479589807
+5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1178525.162483826
+5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.3228836061599523
+5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,576064.5093311185
+5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15782589296742974
+5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7313285.063150397
+5,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.003639743328876
 5,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,kWh/kg H2,0.0005296792911471811
 5,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,MJ/MJ H2 (LHV),1.5895677293513272e-05
 5,liquid hydrogen,preconditioning,terminal,pumping,loading pump,emissions,energy emissions,kg CO2/kg H2,0.0
@@ -2293,20 +2293,20 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 5,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy cost,electricity cost,$/kg H2,9.052219085705325e-05
 5,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/yr,1770.5213831379567
 5,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.00048507435154464566
-5,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,54812.12149957128
-5,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.015017019588923639
-5,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/yr,5205.332866425593
-5,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/kg H2,0.0014261185935412586
-5,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,161147.6372087396
-5,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.0441500375914355
-5,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,18018.81316935879
-5,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.00493666114229008
-5,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,557829.6800722755
-5,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.15283004933487
+5,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,54858.00282153857
+5,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.015029589814120156
+5,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/yr,5205.332866425592
+5,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/kg H2,0.0014261185935412583
+5,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,161282.5282953234
+5,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.04418699405351326
+5,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,18004.21404320986
+5,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.004932661381701332
+5,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,557844.2791984244
+5,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.15283404909545875
 5,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/yr,41529.622838895484
 5,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/kg H2,0.011377978859971365
-5,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,1037348.5796335222
-5,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,0.284205090310554
+5,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,1038216.9080775296
+5,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,0.2844429885143917
 5,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,gallon/kg H2,0.009233610341643583
 5,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,MJ/MJ H2 (LHV),0.010429761597971871
 5,liquid hydrogen,transport,truck,trucking,truck,emissions,energy emissions,kg CO2/kg H2,0.09399815327793168
@@ -2695,24 +2695,24 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 6,compressed hydrogen,reconditioning,refueling station,cooling,refrigerator,capital cost,levelized capital cost,$/kg H2,0.0878640558183182
 6,compressed hydrogen,reconditioning,refueling station,storage,cascade storage,capital cost,levelized capital cost,$/yr,1202355.2353629947
 6,compressed hydrogen,reconditioning,refueling station,storage,cascade storage,capital cost,levelized capital cost,$/kg H2,0.32941239325013555
-6,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/yr,1131500.0
-6,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/kg H2,0.31
+6,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/yr,1134900.1076526684
+6,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/kg H2,0.3109315363431968
 6,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,kg CO2/kg H2,0.0
 6,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,g CO2/MJ H2 (LHV),0.0
-6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.629700437080334
-6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.3189973455609304
+6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.626511526949212
+6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.31890164635726215
 6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,kg CO2/kg H2,0.0
 6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,g CO2/MJ H2 (LHV),0.0
-6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6630647.687144157
-6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.816615804697029
-6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,500472.6056824669
-6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.13711578237875804
-6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1177111.5685651621
-6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.3224963201548389
-6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,575848.4932416342
-6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15776671047716007
-6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7304513.069458776
-6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.001236457385966
+6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6628658.492838014
+6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.8160708199556204
+6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,501675.36309021706
+6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.13744530495622384
+6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1179940.4539881907
+6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.32327135725703854
+6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,576280.606453985
+6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15788509765862602
+6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7322067.591133982
+6,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.006045915379173
 6,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,kWh/kg H2,0.0005296792911471811
 6,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,MJ/MJ H2 (LHV),1.5895677293513272e-05
 6,liquid hydrogen,preconditioning,terminal,pumping,loading pump,emissions,energy emissions,kg CO2/kg H2,0.0
@@ -2721,20 +2721,20 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 6,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy cost,electricity cost,$/kg H2,9.052219085705325e-05
 6,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/yr,1770.5213831379567
 6,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.00048507435154464566
-6,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,83282.28170504789
-6,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.02281706348083504
+6,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,83440.73047542304
+6,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.02286047410285563
 6,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/yr,5205.332866425592
 6,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/kg H2,0.0014261185935412581
-6,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,244849.9082128408
-6,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.067082166633655
-6,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,11987.283589877428
-6,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.003284187284897926
-6,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,563861.2096517568
-6,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.15448252319226213
-6,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/yr,41529.622838895484
-6,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/kg H2,0.011377978859971365
-6,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,1576161.5181424061
-6,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,0.43182507346367294
+6,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,245315.74759774376
+6,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.06720979386239555
+6,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,11964.993454437252
+6,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.0032780803984759598
+6,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,563883.499787197
+6,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.1544886300786841
+6,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/yr,41529.62283889548
+6,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/kg H2,0.011377978859971364
+6,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,1579160.2454749113
+6,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,0.4326466425958661
 6,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,gallon/kg H2,0.009233610341643583
 6,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,MJ/MJ H2 (LHV),0.010429761597971871
 6,liquid hydrogen,transport,truck,trucking,truck,emissions,energy emissions,kg CO2/kg H2,0.09399815327793168
@@ -3123,24 +3123,24 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 7,compressed hydrogen,reconditioning,refueling station,cooling,refrigerator,capital cost,levelized capital cost,$/kg H2,0.0878640558183182
 7,compressed hydrogen,reconditioning,refueling station,storage,cascade storage,capital cost,levelized capital cost,$/yr,1202355.2353629947
 7,compressed hydrogen,reconditioning,refueling station,storage,cascade storage,capital cost,levelized capital cost,$/kg H2,0.32941239325013555
-7,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/yr,1131500.0
-7,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/kg H2,0.31
+7,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/yr,1141731.0051812832
+7,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/kg H2,0.3128030151181598
 7,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,kg CO2/kg H2,0.0
 7,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,g CO2/MJ H2 (LHV),0.0
-7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.629700437080334
-7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.3189973455609304
+7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.62013657641908
+7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.31871033407059596
 7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,kg CO2/kg H2,0.0
 7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,g CO2/MJ H2 (LHV),0.0
-7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6630647.687144157
-7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.816615804697029
-7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,500472.6056824669
-7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.13711578237875804
-7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1177111.5685651621
-7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.3224963201548389
-7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,575848.4932416342
-7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15776671047716007
-7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7304513.069458776
-7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.001236457385966
+7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6624681.894321576
+7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.8149813409100208
+7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,504089.5564081749
+7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.13810672778306163
+7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1185618.6366720276
+7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.324827023745761
+7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,577145.8058873966
+7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15812213859928673
+7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7357303.299228686
+7,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.0156995340352566
 7,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,kWh/kg H2,0.0005296792911471811
 7,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,MJ/MJ H2 (LHV),1.5895677293513272e-05
 7,liquid hydrogen,preconditioning,terminal,pumping,loading pump,emissions,energy emissions,kg CO2/kg H2,0.0
@@ -3149,20 +3149,20 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 7,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy cost,electricity cost,$/kg H2,9.052219085705325e-05
 7,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/yr,1770.5213831379567
 7,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.00048507435154464566
-7,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,155302.78604905755
-7,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.042548708506591114
+7,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,155819.23973180226
+7,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.04269020266624719
 7,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/yr,5205.332866425592
-7,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/kg H2,0.0014261185935412581
-7,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,456590.1909842292
-7,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.12509320300937785
-7,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,6490.931447230146
-7,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.0017783373828027798
-7,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,569357.561794404
-7,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.15598837309435729
-7,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/yr,41529.622838895484
-7,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/kg H2,0.011377978859971365
-7,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,2939187.9043101575
-7,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,0.8052569600849747
+7,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/kg H2,0.0014261185935412583
+7,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,458108.5648114986
+7,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.12550919583876674
+7,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,6469.659345371191
+7,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.0017725094096907373
+7,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,569378.833896263
+7,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.1559942010674693
+7,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/yr,41529.62283889548
+7,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/kg H2,0.011377978859971364
+7,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,2948962.0651998413
+7,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,0.8079348123835182
 7,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,gallon/kg H2,0.009233610341643583
 7,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,MJ/MJ H2 (LHV),0.010429761597971871
 7,liquid hydrogen,transport,truck,trucking,truck,emissions,energy emissions,kg CO2/kg H2,0.09399815327793168
@@ -3551,24 +3551,24 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 8,compressed hydrogen,reconditioning,refueling station,cooling,refrigerator,capital cost,levelized capital cost,$/kg H2,0.0878640558183182
 8,compressed hydrogen,reconditioning,refueling station,storage,cascade storage,capital cost,levelized capital cost,$/yr,1202355.2353629947
 8,compressed hydrogen,reconditioning,refueling station,storage,cascade storage,capital cost,levelized capital cost,$/kg H2,0.32941239325013555
-8,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/yr,1131500.0
-8,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/kg H2,0.31
+8,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/yr,1152054.5189502991
+8,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/kg H2,0.3156313750548765
 8,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,kg CO2/kg H2,0.0
 8,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,g CO2/MJ H2 (LHV),0.0
-8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.629700437080334
-8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.3189973455609304
+8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.610581320650436
+8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.3184235808131175
 8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,kg CO2/kg H2,0.0
 8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,g CO2/MJ H2 (LHV),0.0
-8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6630647.687144157
-8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.816615804697029
-8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,500472.6056824669
-8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.13711578237875804
-8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1177111.5685651621
-8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.3224963201548389
-8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,575848.4932416342
-8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15776671047716007
-8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7304513.069458776
-8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.001236457385966
+8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6618721.469101932
+8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.8133483476991594
+8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,507732.6470912026
+8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.13910483481950756
+8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1194187.1859585086
+8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.3271745714954818
+8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,578446.0412118159
+8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15847836745529204
+8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7410475.047702533
+8,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.0302671363568585
 8,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,kWh/kg H2,0.0005296792911471811
 8,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,MJ/MJ H2 (LHV),1.5895677293513272e-05
 8,liquid hydrogen,preconditioning,terminal,pumping,loading pump,emissions,energy emissions,kg CO2/kg H2,0.0
@@ -3577,20 +3577,20 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 8,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy cost,electricity cost,$/kg H2,9.052219085705325e-05
 8,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/yr,1770.5213831379567
 8,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.00048507435154464566
-8,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,137753.13313138174
-8,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.03774058441955664
-8,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/yr,5205.332866425593
+8,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,134278.55983585984
+8,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.03678864653037256
+8,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/yr,5205.332866425592
 8,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/kg H2,0.0014261185935412583
-8,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,404994.21140626224
-8,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.11095731819349651
-8,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,7307.377908639755
-8,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.0020020213448328095
-8,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,568541.1153329944
-8,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.15576468913232724
-8,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/yr,41529.622838895484
-8,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/kg H2,0.011377978859971365
-8,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,2607051.3799584275
-8,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,0.7142606520434048
+8,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,394778.9659174279
+8,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.10815862079929532
+8,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,7494.001882239224
+8,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.002053151200613486
+8,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,568354.491359395
+8,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.15571355927654656
+8,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/yr,41529.62283889548
+8,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/kg H2,0.011377978859971364
+8,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,2541293.2305868445
+8,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,0.6962447207087246
 8,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,gallon/kg H2,0.009233610341643583
 8,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,MJ/MJ H2 (LHV),0.010429761597971871
 8,liquid hydrogen,transport,truck,trucking,truck,emissions,energy emissions,kg CO2/kg H2,0.09399815327793168
@@ -3979,24 +3979,24 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 9,compressed hydrogen,reconditioning,refueling station,cooling,refrigerator,capital cost,levelized capital cost,$/kg H2,0.0878640558183182
 9,compressed hydrogen,reconditioning,refueling station,storage,cascade storage,capital cost,levelized capital cost,$/yr,1202355.2353629947
 9,compressed hydrogen,reconditioning,refueling station,storage,cascade storage,capital cost,levelized capital cost,$/kg H2,0.32941239325013555
-9,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/yr,1131500.0
-9,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/kg H2,0.31
+9,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/yr,1162471.377768241
+9,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/kg H2,0.3184853089776003
 9,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,kg CO2/kg H2,0.0
 9,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,g CO2/MJ H2 (LHV),0.0
-9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.629700437080334
-9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.3189973455609304
+9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.601034662032323
+9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.31813708555615505
 9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,kg CO2/kg H2,0.0
 9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,g CO2/MJ H2 (LHV),0.0
-9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6630647.687144157
-9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.816615804697029
-9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,500472.6056824669
-9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.13711578237875804
-9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1177111.5685651621
-9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.3224963201548389
-9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,575848.4932416342
-9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15776671047716007
-9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7304513.069458776
-9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.001236457385966
+9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6612766.406655832
+9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.811716823741324
+9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,511402.0666468604
+9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.14011015524571518
+9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1202817.660753416
+9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.3295390851379222
+9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,579749.2057993115
+9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15883539884912645
+9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7464031.072142832
+9,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.0449400197651593
 9,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,kWh/kg H2,0.0005296792911471811
 9,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,MJ/MJ H2 (LHV),1.5895677293513272e-05
 9,liquid hydrogen,preconditioning,terminal,pumping,loading pump,emissions,energy emissions,kg CO2/kg H2,0.0
@@ -4005,20 +4005,20 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 9,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy cost,electricity cost,$/kg H2,9.052219085705325e-05
 9,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/yr,1770.5213831379567
 9,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.00048507435154464566
-9,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,330730.04201054637
-9,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.09061097041384832
+9,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,329034.8992221748
+9,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.09014654773210268
 9,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/yr,5205.332866425592
-9,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/kg H2,0.0014261185935412583
-9,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,972346.3235110063
-9,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.2663962530167141
-9,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,3066.3168216197146
-9,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.0008400868004437574
-9,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,572782.1764200145
-9,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.1569266236767163
-9,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/yr,41529.622838895484
-9,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/kg H2,0.011377978859971365
-9,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,6259242.115349593
-9,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,1.7148608535204364
+9,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/kg H2,0.0014261185935412581
+9,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,967362.6037131938
+9,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.2650308503323819
+9,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,3082.0295171297216
+9,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.0008443916485286909
+9,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,572766.4637245045
+9,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.15692231882863136
+9,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/yr,41529.62283889548
+9,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/kg H2,0.011377978859971364
+9,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,6227160.635638813
+9,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,1.7060714070243321
 9,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,gallon/kg H2,0.009233610341643583
 9,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,MJ/MJ H2 (LHV),0.010429761597971871
 9,liquid hydrogen,transport,truck,trucking,truck,emissions,energy emissions,kg CO2/kg H2,0.09399815327793168
@@ -4407,24 +4407,24 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 10,compressed hydrogen,reconditioning,refueling station,cooling,refrigerator,capital cost,levelized capital cost,$/kg H2,0.0878640558183182
 10,compressed hydrogen,reconditioning,refueling station,storage,cascade storage,capital cost,levelized capital cost,$/yr,1202355.2353629947
 10,compressed hydrogen,reconditioning,refueling station,storage,cascade storage,capital cost,levelized capital cost,$/kg H2,0.32941239325013555
-10,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/yr,1131500.0
-10,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/kg H2,0.31
+10,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/yr,1172982.4256595713
+10,liquid hydrogen,production,terminal,purchase,hydrogen purchase,O&M cost,purchase cost,$/kg H2,0.32136504812590994
 10,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,kg CO2/kg H2,0.0
 10,liquid hydrogen,production,terminal,purchase,hydrogen purchase,emissions,upstream emissions,g CO2/MJ H2 (LHV),0.0
-10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.629700437080334
-10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.3189973455609304
+10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,kWh/kg H2,10.591496592829625
+10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy consumption,electricity consumption,MJ/MJ H2 (LHV),0.31785084806757796
 10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,kg CO2/kg H2,0.0
 10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,emissions,energy emissions,g CO2/MJ H2 (LHV),0.0
-10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6630647.687144157
-10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.816615804697029
-10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,500472.6056824669
-10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.13711578237875804
-10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1177111.5685651621
-10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.3224963201548389
-10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,575848.4932416342
-10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15776671047716007
-10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7304513.069458776
-10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.001236457385966
+10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/yr,6606816.702158228
+10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,energy cost,electricity cost,$/kg H2,1.8100867677145829
+10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/yr,515098.0053557626
+10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.14112274119335963
+10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/yr,1211510.508596754
+10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,other O&M costs,$/kg H2,0.3319206872867819
+10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/yr,581055.306249137
+10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,O&M cost,labor cost,$/kg H2,0.15919323458880466
+10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/yr,7517974.149739018
+10,liquid hydrogen,preconditioning,liquefier,liquefaction,liquefier,capital cost,levelized capital cost,$/kg H2,2.0597189451339775
 10,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,kWh/kg H2,0.0005296792911471811
 10,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy consumption,electricity consumption,MJ/MJ H2 (LHV),1.5895677293513272e-05
 10,liquid hydrogen,preconditioning,terminal,pumping,loading pump,emissions,energy emissions,kg CO2/kg H2,0.0
@@ -4433,20 +4433,20 @@ run #,pathway,process,location,function,equipment,variable group,variable name,u
 10,liquid hydrogen,preconditioning,terminal,pumping,loading pump,energy cost,electricity cost,$/kg H2,9.052219085705325e-05
 10,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/yr,1770.5213831379567
 10,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.00048507435154464566
-10,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,275506.26626276347
-10,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.07548116883911328
+10,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/yr,261072.99979100112
+10,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,"operation, maintenance, repair costs",$/kg H2,0.07152684925780853
 10,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/yr,5205.332866425592
 10,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,other O&M costs,$/kg H2,0.0014261185935412581
-10,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,809988.4228125245
-10,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.221914636386993
-10,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,3677.0191958301025
-10,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.0010074025194055077
-10,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,572171.4740458041
-10,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.15675930795775456
+10,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/yr,767554.6193855433
+10,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,other O&M costs,$/kg H2,0.21028893681795705
+10,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/yr,3878.931716397959
+10,liquid hydrogen,preconditioning,terminal,pumping,loading pump,O&M cost,labor cost,$/kg H2,0.0010627210181912217
+10,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/yr,571969.5615252362
+10,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,O&M cost,labor cost,$/kg H2,0.15670398945896882
 10,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/yr,41529.62283889548
 10,liquid hydrogen,preconditioning,terminal,pumping,loading pump,capital cost,levelized capital cost,$/kg H2,0.011377978859971364
-10,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,5214102.759916855
-10,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,1.4285213040868097
+10,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/yr,4940945.508120428
+10,liquid hydrogen,preconditioning,terminal,storage,cryogenic storage,capital cost,levelized capital cost,$/kg H2,1.3536837008549116
 10,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,gallon/kg H2,0.009233610341643583
 10,liquid hydrogen,transport,truck,trucking,truck,energy consumption,diesel consumption,MJ/MJ H2 (LHV),0.010429761597971871
 10,liquid hydrogen,transport,truck,trucking,truck,emissions,energy emissions,kg CO2/kg H2,0.09399815327793168
